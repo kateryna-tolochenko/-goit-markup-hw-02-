@@ -1,0 +1,40 @@
+span{
+    font-family: Raleway, sans-serif;
+    font-style: bold;
+    font-size: 18px;
+    font-weight: 700;
+    color: #4D5AE5;
+    line-height: 24px;
+
+}
+.header {
+    background-color: #ffffff;
+}
+
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    color: #2e2f42;
+}
+
+.accent {
+    color: #4d5ae5;
+}
+
+.nav-link {
+    color: #2e2f42;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+    color: #404bbf;
+}
+
+.contact-link {
+    color: #434455;
+}
+
+.contact-link:hover,
+.contact-link:focus {
+    color: #404bbf;
+}
