@@ -1,3 +1,18 @@
-footer{
-    background-color: #2E2F42;
+
+footer {
+    background-color: #2e2f42;
+    color: #ffffff;
+    padding: 40px 0;
+}
+
+footer .logo {
+    color: #ffffff;
+}
+
+footer .accent {
+    color: #4d5ae5;
+}
+
+footer p {
+    color: #f4f4fd;
 }

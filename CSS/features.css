@@ -1,0 +1,14 @@
+#features h2 {
+    font-size: 36px;
+    text-align: center;
+}
+
+#features h3 {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#features p {
+    font-size: 16px;
+    color: #434455;
+}

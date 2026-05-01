@@ -1,0 +1,21 @@
+#team {
+    background-color: #f4f4fd;
+}
+
+#team h2 {
+    text-align: center;
+    font-size: 36px;
+}
+
+#team h3 {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#team p {
+    color: #434455;
+}
+
+#team li {
+    background-color: #ffffff;
+}
