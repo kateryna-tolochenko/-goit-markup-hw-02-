@@ -1,4 +1,4 @@
-header {
+.section-header {
     background-color: #ffffff;
 }
 
@@ -6,8 +6,8 @@ header {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
+    line-height: 1.33;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
@@ -15,29 +15,30 @@ header {
     color: #4d5ae5;
 }
 
-nav a {
+.nav>a {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     color: #2e2f42;
 }
 
-nav a:hover,
-nav a:focus {
+.nav>a:hover,
+.nav>a:focus {
     color: #404bbf;
 }
 
-address {
+.contacts {
     font-style: normal;
 }
 
-address a {
+.contacts>a {
     font-size: 16px;
     line-height: 1.5;
+    letter-spacing: 0.02em;
     color: #434455;
 }
 
-address a:hover,
-address a:focus {
+.contacts>a:hover,
+.contacts>a:focus {
     color: #404bbf;
 }

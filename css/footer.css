@@ -1,18 +1,21 @@
 
-footer {
+.section-footer {
     background-color: #2e2f42;
     color: #ffffff;
-    padding: 40px 0;
 }
 
-footer .logo {
-    color: #ffffff;
+ .section-footer .logo {
+    color: #f4f4fd;
+    line-height: 1.33;
 }
 
-footer .accent {
+.section-footer .accent {
     color: #4d5ae5;
 }
 
-footer p {
+.city-text {
     color: #f4f4fd;
+    line-height: 1.5;
+    font-size: 16px;
+    font-weight: 400;
 }
