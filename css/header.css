@@ -7,7 +7,7 @@
     font-weight: 700;
     font-size: 18px;
     line-height: 1.33;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.03em;
     color: #2e2f42;
 }
 
@@ -15,15 +15,15 @@
     color: #4d5ae5;
 }
 
-.nav>a {
+.nav {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     color: #2e2f42;
 }
 
-.nav>a:hover,
-.nav>a:focus {
+.nav:hover,
+.nav:focus {
     color: #404bbf;
 }
 
@@ -31,14 +31,14 @@
     font-style: normal;
 }
 
-.contacts>a {
+.contacts {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
 
-.contacts>a:hover,
-.contacts>a:focus {
-    color: #404bbf;
+.contacts:hover,
+.contacts:focus {
+    color: #434455;
 }
